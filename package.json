@@ -21,7 +21,7 @@
 		"object-assign": "latest",
 		"opn": "latest",
 		"send": "latest",
-		"watchr": "2.3.x"
+		"watchr": "4.1.x"
 	},
 	"devDependencies": {
 		"mocha": "^2.3.3",
