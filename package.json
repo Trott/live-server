@@ -25,7 +25,7 @@
 	},
 	"devDependencies": {
 		"mocha": "^2.3.3",
-		"supertest": "^1.0.1"
+		"supertest": "^4.0.2"
 	},
 	"scripts": {
 		"lint": "jshint *.js; eslint *.js",
