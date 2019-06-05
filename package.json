@@ -24,7 +24,7 @@
 		"watchr": "2.3.x"
 	},
 	"devDependencies": {
-		"mocha": "^2.3.3",
+		"mocha": "^6.1.4",
 		"supertest": "^1.0.1"
 	},
 	"scripts": {
